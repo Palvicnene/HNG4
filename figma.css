@@ -1,0 +1,67 @@
+body{
+	background-color: #46A1D5;
+}
+.home{
+	float: left;
+	width: 220px; 
+	height: 50px;
+	margin-left: 310px;
+}
+.HNG{
+	margin-top: 12px; 
+	font-size: 20px;
+	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.navbar{
+	width: 400px;
+	height: 50px;
+	margin-right: 320px;
+	float: right;
+}
+.menu{
+	float: right;
+	font-size: 16px;
+	color: white;
+	font-family: sans-serif;
+}
+.main{
+	float: left;
+	width: 730px;
+	height: 590px; 
+	margin-left: 306px; 
+	background-image: url(back2.jpg);
+}
+.heading{
+	float: left;
+	width: 220px;
+	height: 40px;
+	margin-top: 230px;
+	margin-left: 270px;
+}
+.intern{
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.info{
+	float: left;
+	width: 510px;
+	margin-top: 50px;
+	margin-left: 100px;
+}
+.write{
+	font-size: 15px;
+	font-family: sans-serif;
+	color: #E0E0E0;
+}
+.time{
+	float: left; 
+	margin-top: 170px;
+	margin-left: -310px; 
+	color: #A043F7; 
+	font-style: italic;
+	font-size: 27px; 
+	font-weight: bold;
+	font-family: sans-serif;
+}
